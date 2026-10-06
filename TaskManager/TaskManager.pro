@@ -29,3 +29,7 @@ SOURCES += main.cpp\
 HEADERS  += mainwindow.h
 
 FORMS    += mainwindow.ui
+
+DISTFILES += \
+    README.md \
+    C:/Users/联想/Pictures/Screenshots/屏幕截图 2026-09-20 145549.png
